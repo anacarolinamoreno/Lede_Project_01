@@ -28,10 +28,15 @@ It had only a minimum attention to stardards and highly subjected to my level of
 Because I wanted to practice dataviz, not data cleaning, I decided not to spend too much type coding my way from a crazy txt file into a Python dictionary. So, sticking with the theme, [I asked DeepSeek-R1 for help](01_prompt/prompt.md).
 
 And [it pretty much worked](00_raw/china_raw.py)! I changed the name of the object from "gastos_viagem" to "expenses" and stored it into a .py file. Then I wised up and asked it to turn the dictionary [into a json file](00_raw/china_raw.json).
-
+<br><br>
 #### Step 2: LLM fact-checking for accuracy
 After I got the raw data in the appropriated format, it was time to check its content. I chose to use pandas straight away. [Here's the jupyter notebook](03_notebooks/00_check.ipynb) for this step.
-
+<br><br>
 #### Step 3: Data analysis
-
-
+Still working on this!
+<br><br>
+#### Step 4: Data visualization
+In development, you can [see the storyboard here](05_dataviz/storyboard.md).
+<br><br>
+#### Step 5: Final presentation
+Still working on this!
