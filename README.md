@@ -30,10 +30,22 @@ Because I wanted to practice dataviz, not data cleaning, I decided not to spend 
 And [it pretty much worked](00_raw/china_raw.py)! I changed the name of the object from "gastos_viagem" to "expenses" and stored it into a .py file. Then I wised up and asked it to turn the dictionary [into a json file](00_raw/china_raw.json).
 <br><br>
 #### Step 2: LLM fact-checking for accuracy
-After I got the raw data in the appropriated format, it was time to check its content. I chose to use pandas straight away. [Here's the jupyter notebook](03_notebooks/00_check.ipynb) for this step.
+After I got the raw data in the appropriated format, it was time to check its content. I chose to use pandas straight away. This is the [jupyter notebook for this step](03_notebooks/00_check.ipynb).
 <br><br>
 #### Step 3: Data cleaning and analysis
-Still working on the [cleaning...](03_notebooks/01_data_cleaning.ipynb)
+I moved on to [data cleaning](03_notebooks/01_data_cleaning.ipynb), and then I analysed the tidy data according to five different angles:
+<br>
+--> General expenses
+<br>
+--> Comparing by city
+<br>
+--> Comparing by category
+<br>
+--> Comparing by payment type
+<br>
+--> Curious insights
+<br>
+Here's the [data analysis notebook](03_notebooks/02_data_analysis.ipynb).
 <br><br>
 #### Step 4: Data visualization
 In development, you can [see the storyboard here](05_dataviz/storyboard.md).
