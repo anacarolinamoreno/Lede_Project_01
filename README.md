@@ -33,7 +33,9 @@ And [it pretty much worked](00_raw/china_raw.py)! I changed the name of the obje
 After I got the raw data in the appropriated format, it was time to check its content. I chose to use pandas straight away. This is the [jupyter notebook for this step](03_notebooks/00_check.ipynb).
 <br><br>
 #### Step 3: Data cleaning and analysis
-I moved on to [data cleaning](03_notebooks/01_data_cleaning.ipynb), and then I analysed the tidy data according to five different angles:
+I moved on to [data cleaning](03_notebooks/01_data_cleaning.ipynb), which is when I decided to translate the entired content to English. This is [the cleaned CSV](04_tidy_data/china_cleaned.csv) that will serve as the source for the next step.
+
+I analysed the tidy data according to five different angles:
 <br>
 --> General expenses
 <br>
@@ -45,7 +47,7 @@ I moved on to [data cleaning](03_notebooks/01_data_cleaning.ipynb), and then I a
 <br>
 --> Curious insights
 <br>
-Here's the [data analysis notebook](03_notebooks/02_data_analysis.ipynb).
+Here's the [data analysis notebook](03_notebooks/02_data_analysis.ipynb). 
 <br><br>
 #### Step 4: Data visualization
 In development, you can [see the storyboard here](05_dataviz/storyboard.md).

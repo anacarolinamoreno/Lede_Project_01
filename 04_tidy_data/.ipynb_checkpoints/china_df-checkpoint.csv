@@ -1,0 +1,135 @@
+date,city,expense,payment_source,category,price,price_usd,price_usd_per_capita,payment_type
+Jun-01,Guangzhou,Jantar,Diva,Alimentação,120.0,16.67,5.56,apps
+Jun-01,Guangzhou,Cruzeiro Rio das Pérolas,Renata,Ingressos,369.0,51.25,17.08,apps
+Jun-01,Guangzhou,Almoço,Diva,Alimentação,90.0,12.5,4.17,apps
+Jun-01,Guangzhou,Carro do aeroporto para o hotel,Renata,Transporte,130.0,18.06,6.02,apps
+Jun-02,Guangzhou,Didi,Carol,Transporte,18.79,2.61,0.87,apps
+Jun-02,Guangzhou,Didi,Carol,Transporte,17.1,2.38,0.79,apps
+Jun-02,Guangzhou,Museu,Carol,Ingressos,10.0,1.39,0.46,apps
+Jun-02,Guangzhou,Café latte no M Stand,Diva,Alimentação,45.0,6.25,2.08,apps
+Jun-02,Guangzhou,Livraria,Carol,Compras/presentes,11.5,1.6,0.53,apps
+Jun-02,Pequim,Didi do aeroporto,Renata,Transporte,110.0,15.28,7.64,apps
+Jun-02,Guangzhou,Comprinhas Miniso,Carol,Compras/presentes,15.0,2.08,0.69,apps
+Jun-03,Pequim,Didi para o aeroporto,Renata,Transporte,90.0,12.5,6.25,apps
+Jun-03,Pequim,Taobao e Meituan,Renata,Compras/presentes,840.47,116.73,58.37,apps
+Jun-03,Pequim,Massagem nos pés,Carol,Compras/presentes,156.0,21.67,10.83,apps
+May-11,Pequim,Táxi do aeroporto para a casa da Renata,Carol,Transporte,87.0,12.08,6.04,apps
+May-12,Pequim,Didi pro templo do céu (tava fechado),Carol,Transporte,38.42,5.34,2.67,apps
+May-12,Pequim,Didi pra casa,Carol,Transporte,45.0,6.25,3.12,apps
+May-12,Pequim,Didi pra Qianmen,Carol,Transporte,14.8,2.06,1.03,apps
+May-12,Pequim,Almoço Qianmen,Carol,Alimentação,64.0,8.89,4.44,apps
+May-12,Pequim,Sorvete de amendoim,Carol,Alimentação,9.9,1.38,0.69,apps
+May-12,Pequim,Metrô,Carol,Transporte,6.0,0.83,0.42,apps
+May-12,Pequim,Mountain Coffee,Carol,Alimentação,25.0,3.47,1.74,apps
+May-12,Pequim,3 Baralhos,Carol,Compras/Presentes,90.0,12.5,6.25,apps
+May-12,Pequim,Colar e brincos Carol + brinco presente da Lara,Carol,Compras/Presentes,170.0,23.61,11.81,apps
+May-12,Pequim,Didi pro restaurante de dumpling fritos,Carol,Transporte,49.93,6.93,3.47,apps
+May-12,Pequim,Didi pro shopping das Pérolas (Hungqiao Market),Carol,Transporte,13.3,1.85,0.92,apps
+May-13,Pequim,Bolsa e marcador de página,Carol,Compras/Presentes,78.0,10.83,5.42,apps
+May-13,Datong,Pacote de turismo Datong,Paula,Agência,1080.0,150.0,75.0,credit card
+May-13,Datong,Dois cafés da manhã do hotel,Diva,Alimentação,116.0,16.11,8.06,apps
+May-13,Pequim,Metrô,Carol,Transporte,10.0,1.39,0.69,apps
+May-13,Pequim,Didi pro Templo do Céu,Carol,Transporte,45.0,6.25,3.12,apps
+May-13,Pequim,Icetea de limão,Carol,Alimentação,8.0,1.11,0.56,apps
+May-13,Datong,Didi pro hotel,Diva,Transporte,7.5,1.04,0.52,apps
+May-13,Datong,Suco de maçã,Carol,Alimentação,7.0,0.97,0.49,apps
+May-13,Datong,Jantar Zini 369,Diva,Alimentação,66.0,9.17,4.58,apps
+May-13,Datong,Didi pro restaurante Zini 369,Diva,Transporte,7.3,1.01,0.51,apps
+May-13,Datong,Didi pro Hotel Weidu em Datong,Carol,Transporte,18.2,2.53,1.26,apps
+May-13,Datong,Da Tong Weidu International Hotel,Diva,Hotel,292.0,40.56,20.28,apps
+May-13,Pequim,Didi pra Beijingbei,Carol,Transporte,53.73,7.46,3.73,apps
+May-13,Datong,trem de Pequim para Datong,Renata,Transporte,378.0,52.5,26.25,apps
+May-13,Pequim,Ingresso Templo do Céu,Carol,Ingressos,34.0,4.72,2.36,apps
+May-14,Datong,Entrada Hanging Temple,Diva,Ingressos,115.0,15.97,7.99,apps
+May-14,Datong,Lencinhos,Diva,Compras/Presentes,5.4,0.75,0.38,apps
+May-14,Datong,Café KFC,Carol,Alimentação,20.0,2.78,1.39,apps
+May-14,Datong,Cadernos Datong,Diva,Compras/Presentes,75.0,10.42,5.21,apps
+May-14,Datong,Sinos de souvenir,Diva,Compras/Presentes,40.0,5.56,2.78,apps
+May-14,Datong,Almoço Yunjinhui,Diva,Alimentação,232.0,32.22,16.11,apps
+May-14,Datong,Comprinhas souvenirs Hanging Temple,Diva,Compras/Presentes,97.0,13.47,6.74,apps
+May-14,Datong,Ônibus Hanging Temple,Diva,Transporte,40.0,5.56,2.78,apps
+May-15,Datong,Táxi pra estação,Diva,Transporte,19.8,2.75,1.38,apps
+May-15,Datong,Sucos,Diva,Alimentação,30.0,4.17,2.08,apps
+May-15,Pequim,Metrô pra casa,Diva,Transporte,10.0,1.39,0.69,apps
+May-15,Datong,trem de Datong para Pequim,Renata,Transporte,366.0,50.83,25.42,apps
+May-15,Datong,Comprinhas souvenir,Diva,Compras/Presentes,87.0,12.08,6.04,apps
+May-15,Datong,Ônibus Yungang Grottoes,Diva,Transporte,30.0,4.17,2.08,apps
+May-16,Pequim,Bolachas de amêndoa,Diva,Alimentação,25.0,3.47,1.74,apps
+May-16,Pequim,Audioguia Summer Palace,Diva,Ingressos,40.0,5.56,2.78,apps
+May-16,Pequim,Táxi Summer Palace,Diva,Transporte,54.5,7.57,3.78,apps
+May-16,Pequim,Almoço,Diva,Alimentação,115.0,15.97,7.99,apps
+May-16,Pequim,Entrada Summer Palace,Diva,Ingressos,60.0,8.33,4.17,apps
+May-16,Pequim,Jantar no Migas (espanhol),Diva,Alimentação,645.0,89.58,44.79,apps
+May-16,Pequim,Água saborizada Summer Palace,Diva,Alimentação,8.0,1.11,0.56,apps
+May-16,Pequim,Metrô para o Migas,Diva,Transporte,10.0,1.39,0.69,apps
+May-16,Pequim,Águas,Carol,Alimentação,8.0,1.11,0.56,apps
+May-17,Suzhou,trem de Pequim para Suzhou,Renata,Transporte,1224.0,170.0,56.67,apps
+May-17,Suzhou,HanTin Premium Hotel,Renata,Hotel,656.0,91.11,30.37,apps
+May-17,Pequim,Leques,Diva,Compras/Presentes,20.0,2.78,1.39,apps
+May-17,Pequim,Balde de frango,Diva,Alimentação,20.98,2.91,1.46,apps
+May-17,Pequim,Metrô,Diva,Transporte,10.0,1.39,0.69,apps
+May-17,Pequim,Metrô,Diva,Transporte,8.0,1.11,0.56,apps
+May-17,Pequim,Prendedor de cabelo,Diva,Compras/Presentes,20.0,2.78,1.39,apps
+May-17,Pequim,Café de balde,Diva,Alimentação,44.0,6.11,3.06,apps
+May-17,Pequim,Frutinhas,Carol,Alimentação,17.9,2.49,1.24,apps
+May-17,Pequim,Jantar,Tica,Alimentação,303.0,42.08,21.04,apps
+May-17,Pequim,Didi pra estação Beijingnan,Diva,Transporte,47.0,6.53,3.26,apps
+May-17,Pequim,Wrap de frango,Diva,Alimentação,39.0,5.42,2.71,apps
+May-18,Suzhou,trem de Suzhou para Xangai,Renata,Transporte,168.0,23.33,7.78,apps
+May-18,Guangzhou,SunYat Sen University Kaifeng Hotel,Renata,Hotel,1382.0,191.94,63.98,apps
+May-18,Suzhou,Entrada Jardim do Administrador Humilde,Diva,Ingressos,40.0,5.56,1.85,apps
+May-18,Suzhou,Cartão-postal,Carol,Compras/Presentes,10.0,1.39,0.46,apps
+May-18,Suzhou,Café espresso + leite,Diva,Alimentação,20.0,2.78,0.93,apps
+May-18,Suzhou,Entrada Jardim do Administrador Humilde,Carol,Ingressos,80.0,11.11,3.7,apps
+May-18,Pequim,Táxi do aeroporto para a casa da Renata,Paula,Transporte,102.0,14.17,7.08,credit card
+May-18,Suzhou,Metro,Diva,Transporte,4.0,0.56,0.19,apps
+May-20,Pequim,Didi pra casa,Diva,Transporte,77.88,10.82,5.41,apps
+May-20,Pequim,Jantar Carol,Carol,Alimentação,26.0,3.61,1.81,apps
+May-21,Pequim,Chapéu,Carol,Compras/Presentes,40.0,5.56,2.78,apps
+May-21,Pequim,Ingressos parque + shuttle + bondinho,Paula,Ingressos,400.0,55.56,27.78,credit card
+May-21,Pequim,Didi na volta,Diva,Transporte,204.2,28.36,14.18,apps
+May-21,Pequim,Almoço Saigon Baimen,Diva,Alimentação,108.0,15.0,7.5,apps
+May-21,Pequim,Didi na ida,Diva,Transporte,187.27,26.01,13.0,apps
+May-22,Pequim,Comprinhas museu,Diva,Compras/Presentes,165.0,22.92,11.46,apps
+May-22,Pequim,Volta de metrô,Cada uma,Transporte,8.0,1.11,0.56,apps
+May-22,Pequim,Didi para Tiannanmen,Diva,Transporte,42.0,5.83,2.92,apps
+May-22,Pequim,Almoço no museu,Diva,Alimentação,26.0,3.61,1.81,apps
+May-23,Pequim,Metrô pra Cidade Proibida,Carol,Transporte,9.0,1.25,0.62,apps
+May-23,Pequim,Entrada Cidade Proibida,Diva,Ingressos,60.0,8.33,4.17,apps
+May-24,Lhasa,Avião ida e volta de Pequim para Lhasa,Paula,Transporte,9169.11,1273.49,424.5,credit card
+May-24,Lhasa,Show Princesa Wejcheng,Tica,Ingressos,840.0,116.67,38.89,apps
+May-24,Lhasa,Comidas,Carol/Renata,Alimentação,30.0,4.17,1.39,apps
+May-24,Lhasa,Pacote de turismo Tibet,Paula,Agência,15183.0,2108.75,702.92,credit card
+May-24,Lhasa,Almoço hot pot surpresa,Tica,Alimentação,438.0,60.83,20.28,apps
+May-24,Lhasa,Didi pro aeroporto,Carol,Transporte,107.0,14.86,4.95,apps
+May-24,Lhasa,Avião ida e volta de São Paulo para Pequim,Paula,Transporte,23791.9,3304.43,1101.48,credit card
+May-25,Lhasa,Bolsas,Tica,Compras/Presentes,120.0,16.67,5.56,apps
+May-25,Lhasa,Porta-incenso e ímã,Diva,Compras/Presentes,76.0,10.56,3.52,apps
+May-25,Lhasa,Proteção (Jokar Temple),Renata,Compras/Presentes,50.0,6.94,2.31,apps
+May-26,Lhasa,Comprinhas mirante,Diva,Compras/Presentes,150.0,20.83,6.94,apps
+May-27,Shigatse,Gorjeta Samsara e Kunga,Carol,Compras/Presentes,100.0,13.89,6.94,apps
+May-27,Shigatse,Jantar,Carol,Alimentação,52.0,7.22,3.61,apps
+May-28,Shigatse,Almoço,Carol,Alimentação,45.0,6.25,3.12,apps
+May-28,Shigatse,Comprinhas no Old Market,Carol,Compras/Presentes,125.0,17.36,8.68,apps
+May-28,Shigatse,Copinhos,Carol,Compras/Presentes,50.0,6.94,3.47,apps
+May-28,Shigatse,Comprinhas,Carol,Compras/Presentes,50.0,6.94,3.47,apps
+May-28,Shigatse,Jantar Pizza Hut,Diva,Alimentação,57.0,7.92,3.96,apps
+May-28,Shigatse,Suco,Carol,Alimentação,12.0,1.67,0.83,apps
+May-28,Shigatse,Chapéu,Carol,Compras/Presentes,35.0,4.86,2.43,apps
+May-28,Shigatse,Água e cerveja,Carol,Alimentação,13.0,1.81,0.9,apps
+May-28,Shigatse,Gorjeta Lhakdon,Carol,Compras/Presentes,30.0,4.17,2.08,apps
+May-29,Pequim,Taxi do aeroporto,Paula,Transporte,102.0,14.17,7.08,credit card
+May-29,Lhasa,Almoço,Diva,Alimentação,33.0,4.58,1.53,apps
+May-29,Lhasa,Compras Bokar Supermarket,Carol,Compras/Presentes,105.0,14.58,4.86,apps
+May-29,Lhasa,Entrada Norbulingka,Diva,Ingressos,120.0,16.67,5.56,apps
+May-29,Lhasa,Compras Norbulingka,Diva,Compras/Presentes,308.0,42.78,14.26,apps
+May-29,Lhasa,Didi para Bokar,Diva,Transporte,14.0,1.94,0.65,apps
+May-29,Lhasa,Massagem no aeroporto,Diva,Compras/Presentes,30.0,4.17,1.39,apps
+May-29,Lhasa,Didi para Norbulingka,Diva,Transporte,15.0,2.08,0.69,apps
+May-30,Pequim,Metrô,Paula,Transporte,14.0,1.94,0.97,credit card
+May-30,Pequim,Supermercado,Carol,Compras/presentes,21.3,2.96,1.48,apps
+May-30,Pequim,Supermercado,Carol,Alimentação,19.39,2.69,1.35,apps
+May-30,Pequim,Brincos e colar de pérola,Diva,Compras/presentes,1234.0,171.39,85.69,apps
+May-30,Pequim,Lenços de seda,Paula,Compras/presentes,1145.0,159.03,79.51,credit card
+May-30,Pequim,Almoço no bairro da Renata,Diva,Alimentação,1234.0,171.39,85.69,apps
+May-31,Guangzhou,Avião ida e volta de Pequim para Guangzhou,Renata,Transporte,6150.0,854.17,284.72,apps

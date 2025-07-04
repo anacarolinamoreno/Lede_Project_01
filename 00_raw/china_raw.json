@@ -451,16 +451,8 @@
     "data": "18/05",
     "cidade": "Suzhou",
     "descricao": "Entrada Jardim do Administrador Humilde",
-    "valor": 80.0,
+    "valor": 200.0,
     "quem_pagou": "Carol",
-    "categoria": "Ingressos"
-  },
-  {
-    "data": "18/05",
-    "cidade": "Suzhou",
-    "descricao": "Entrada Jardim do Administrador Humilde",
-    "valor": 40.0,
-    "quem_pagou": "Diva",
     "categoria": "Ingressos"
   },
   {
@@ -478,14 +470,6 @@
     "valor": 20.0,
     "quem_pagou": "Diva",
     "categoria": "Alimentação"
-  },
-  {
-    "data": "18/05",
-    "cidade": "Xangai",
-    "descricao": "Passagem avião Xangai-Pequim",
-    "valor": 1460.0,
-    "quem_pagou": "Tica",
-    "categoria": "Transporte"
   },
   {
     "data": "18/05",
@@ -721,7 +705,7 @@
   },
   {
     "data": "20/05",
-    "cidade": "Pequim",
+    "cidade": "Xangai",
     "descricao": "Jantar Carol",
     "valor": 26.0,
     "quem_pagou": "Carol",

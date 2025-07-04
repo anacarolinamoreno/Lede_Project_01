@@ -20,7 +20,7 @@
           "payment_source": "Renata",
           "category": "Hotel"
         },
-                    { "day": "18-May",
+                    { "day": "31-May",
           "city": "Guangzhou",
           "expense": "SunYat Sen University Kaifeng Hotel",
           "price": 1382,
@@ -76,8 +76,8 @@
           "payment_source": "Renata",
           "category": "Transporte"
         },
-                    { "day": "24-May",
-          "city": "Lhasa",
+                    { "day": "11-May",
+          "city": "China",
           "expense": "Avião ida e volta de São Paulo para Pequim",
           "price": 23791.90,
           "payment_source": "Paula",
@@ -87,7 +87,7 @@
           "city": "Datong",
           "expense": "Pacote de turismo Datong",
           "price": 1080,
-          "payment_source": "credit card",
+          "payment_source": "Paula",
           "category": "Agência"
         },
                    { "day": "24-May",
@@ -121,7 +121,7 @@
                     { "day": "30-May",
           "city": "Pequim",
           "expense": "Almoço no bairro da Renata",
-          "price": 1234,
+          "price": 66,
           "payment_source": "Diva",
           "category": "Alimentação"
         },
@@ -135,7 +135,7 @@
                     { "day": "30-May",
           "city": "Pequim",
           "expense": "Brincos e colar de pérola",
-          "price": 1234,
+          "price": 70,
           "payment_source": "Diva",
           "category": "Compras/presentes"
         },
